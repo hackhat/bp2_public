@@ -1,6 +1,6 @@
 {
   "main.css": "static/css/main.41298ca1.css",
-  "main.js": "static/js/main.ca0df8fb.js",
+  "main.js": "static/js/main.06a3185c.js",
   "static\\media\\Planets_logoFull.png": "static/media/Planets_logoFull.8d89233b.png",
   "static\\media\\Planets_logoSquareWhite_64.png": "static/media/Planets_logoSquareWhite_64.f2c338fd.png",
   "static\\media\\Planets_particle1.png": "static/media/Planets_particle1.b28e91a8.png",
@@ -8,8 +8,10 @@
   "static\\media\\Planets_planetSelection.png": "static/media/Planets_planetSelection.5cba8d78.png",
   "static\\media\\Planets_ship.png": "static/media/Planets_ship.de61aab6.png",
   "static\\media\\Planets_shipMaskColor1.png": "static/media/Planets_shipMaskColor1.bffa8282.png",
-  "static\\media\\Planets_type1Color.png": "static/media/Planets_type1Color.d000e3f9.png",
-  "static\\media\\Planets_type1Mask1.png": "static/media/Planets_type1Mask1.dbed50df.png",
+  "static\\media\\Planets_type1Color.png": "static/media/Planets_type1Color.d904506b.png",
+  "static\\media\\Planets_type1Mask1.png": "static/media/Planets_type1Mask1.1d6efe9d.png",
+  "static\\media\\Planets_type2Color.png": "static/media/Planets_type2Color.881d0ae7.png",
+  "static\\media\\Planets_type2Mask1.png": "static/media/Planets_type2Mask1.56d298cd.png",
   "static\\media\\backgroundNarrow.jpg": "static/media/backgroundNarrow.008c4692.jpg",
   "static\\media\\backgroundWide.jpg": "static/media/backgroundWide.58587a6e.jpg",
   "static\\media\\createPlanet.png": "static/media/createPlanet.56859f63.png",
@@ -19,5 +21,5 @@
   "static\\media\\sendShip.png": "static/media/sendShip.ec3ee91a.png",
   "static\\media\\shipStream.png": "static/media/shipStream.46afdc18.png",
   "static\\media\\win.png": "static/media/win.b5ddc4fa.png",
-  "vendor.js": "static/js/vendor.718159cc.js"
+  "vendor.js": "static/js/vendor.451dd2e8.js"
 }
