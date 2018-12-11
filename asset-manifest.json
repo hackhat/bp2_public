@@ -1,6 +1,6 @@
 {
   "main.css": "static/css/main.41298ca1.css",
-  "main.js": "static/js/main.0920640e.js",
+  "main.js": "static/js/main.6c5494e8.js",
   "static\\media\\Planets_logoFull.png": "static/media/Planets_logoFull.8d89233b.png",
   "static\\media\\Planets_logoSquareWhite_64.png": "static/media/Planets_logoSquareWhite_64.f2c338fd.png",
   "static\\media\\Planets_particle1.png": "static/media/Planets_particle1.b28e91a8.png",
@@ -21,5 +21,5 @@
   "static\\media\\sendShip.png": "static/media/sendShip.ec3ee91a.png",
   "static\\media\\shipStream.png": "static/media/shipStream.46afdc18.png",
   "static\\media\\win.png": "static/media/win.b5ddc4fa.png",
-  "vendor.js": "static/js/vendor.ded8265e.js"
+  "vendor.js": "static/js/vendor.f1a01658.js"
 }
