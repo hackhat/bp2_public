@@ -1,0 +1,1 @@
+{"version":3,"file":"getDateFromClientSideOffset.js","sourceRoot":"","sources":["../../../../src/utils/getDateFromClientSideOffset.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,IAAM,2BAA2B,GAAG,UAAC,gBAAgB;IAC1D,IAAM,GAAG,GAAG,IAAI,IAAI,EAAE,CAAC;IACvB,OAAO,IAAI,IAAI,CAAC,CAAC,GAAG,GAAG,gBAAgB,CAAC,CAAC;AAC3C,CAAC,CAAC"}

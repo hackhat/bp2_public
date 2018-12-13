@@ -1,0 +1,1 @@
+{"version":3,"file":"wrapPhaserGameObjectForReduxDevTools.js","sourceRoot":"","sources":["../../../../src/utils/wrapPhaserGameObjectForReduxDevTools.ts"],"names":[],"mappings":"AAIA,MAAM,CAAC,IAAM,oCAAoC,GAAG,UAAC,IAAiB;IACpE,IAAM,EAAE,GAAG;QACT,OAAO,IAAI,CAAC;IACd,CAAC,CAAC;IACF,OAAO,EAAE,CAAC;AACZ,CAAC,CAAC"}
